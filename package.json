@@ -1,0 +1,19 @@
+{
+  "name": "mean-struct",
+  "version": "0.0.0",
+  "description": "A scaffold preview for ME*N stack projects.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "mocha server/tests"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "nodejs",
+    "angularjs"
+  ],
+  "author": "Douglas Soares",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
