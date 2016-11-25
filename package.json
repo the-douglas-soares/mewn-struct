@@ -1,7 +1,7 @@
 {
   "name": "mean-struct",
   "version": "0.0.0",
-  "description": "A scaffold preview for ME*N stack projects.",
+  "description": "A scaffold preview for MEWN stack projects. Where W stands for Whatever",
   "main": "server/index.js",
   "scripts": {
     "test": "mocha server/tests"
