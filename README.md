@@ -1,6 +1,6 @@
 ## About it
 A scaffold preview for MEWN stack projects. Where W stands for Whatever
-## List of planned things the struct might have
+## List of planned features the struct might support
 ### Server
 * Local authentication boilerplate (email and password);
 * CRUD implementation;
