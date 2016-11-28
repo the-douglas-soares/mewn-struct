@@ -7,6 +7,6 @@ A scaffold preview for MEWN stack projects. Where W stands for Whatever
 * Unit and integration tests;
 * Persistence with mongodb;
 * Pure JSON responses;
-* Scurity assurance;
+* Security assurance;
 * Docker integration;
-* ES6 features.
+* ES6/ES7 features.
