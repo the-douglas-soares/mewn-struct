@@ -1,11 +1,12 @@
 ## About it
 A scaffold preview for MEWN stack projects. Where W stands for Whatever
-## List of planned things the struct might have
+## List of planned features the struct might support
 ### Server
 * Local authentication boilerplate (email and password);
-* Plan CRUD implementation;
+* CRUD implementation;
 * Unit and integration tests;
 * Persistence with mongodb;
 * Pure JSON responses;
-* Scurity assurance;
-* Docker integration.
+* Security assurance;
+* Docker integration;
+* ES6/ES7 features.
